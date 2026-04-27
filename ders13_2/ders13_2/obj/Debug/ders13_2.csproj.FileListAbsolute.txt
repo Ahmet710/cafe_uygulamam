@@ -1,0 +1,12 @@
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\bin\Debug\ders13_2.exe.config
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\bin\Debug\ders13_2.exe
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\bin\Debug\ders13_2.pdb
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.csproj.AssemblyReference.cache
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.menu.resources
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.giris_yap.resources
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.kayit_ol.resources
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.Properties.Resources.resources
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.csproj.GenerateResource.cache
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.csproj.CoreCompileInputs.cache
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.exe
+C:\visual_studio_uygulamalar\okul dersleri\DERSLER\ders13\ders13-2\ders13_2\ders13_2\obj\Debug\ders13_2.pdb
