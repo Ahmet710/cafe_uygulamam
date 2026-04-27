@@ -1,0 +1,10 @@
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\bin\Debug\odev3.exe.config
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\bin\Debug\odev3.exe
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\bin\Debug\odev3.pdb
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.csproj.AssemblyReference.cache
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.Form1.resources
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.Properties.Resources.resources
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.csproj.GenerateResource.cache
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.csproj.CoreCompileInputs.cache
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.exe
+C:\visual_studio_uygulamalar\okul dersleri\ÖDEVLER\odev3\odev3\odev3\obj\Debug\odev3.pdb
