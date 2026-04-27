@@ -1,0 +1,10 @@
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\bin\Debug\user_uygulaması.exe.config
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\bin\Debug\user_uygulaması.exe
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\bin\Debug\user_uygulaması.pdb
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.csproj.AssemblyReference.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.Properties.Resources.resources
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.csproj.GenerateResource.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.csproj.CoreCompileInputs.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.exe
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.pdb
+C:\visual_studio_uygulamalar\TEKRARLAR\user_uygulaması\user_uygulaması\user_uygulaması\obj\Debug\user_uygulaması.kayit_islemi.resources
